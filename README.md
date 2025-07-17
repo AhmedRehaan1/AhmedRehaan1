@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Ahmed Rehan
 
-🎓 Mechatronics Engineering Student | 🤖 Robotics & AI Developer | 🔬 Research Enthusiast
+ Mechatronics Engineering Student | 🤖 Robotics & AI Developer | 🔬 Research Enthusiast
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm an engineering student passionate about AI ,robotics and embedded systems.. I’ve worked on various interdisciplinary projects combining AI, microcontroller programming (ESP32), computer vision, , machine learning & Mechanical systems
 
@@ -13,7 +13,7 @@ I'm an engineering student passionate about AI ,robotics and embedded systems.. 
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 - **Programming:** Python, C++, Arduino (ESP32), C
 - **AI/ML:** Scikit-learn, OpenCV, MediaPipe, YOLOv8
@@ -24,7 +24,7 @@ I'm an engineering student passionate about AI ,robotics and embedded systems.. 
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedRehaan1&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRehaan1&layout=compact&theme=tokyonight)
@@ -32,9 +32,9 @@ I'm an engineering student passionate about AI ,robotics and embedded systems.. 
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-- 📧 Email: ahmedrehan2214@gmail.com  
+-  Email: ahmedrehan2214@gmail.com  
 - 💼 LinkedIn: [Ahmed Rehan](https://www.linkedin.com/in/ahmed-rehan-080604267/)
 
 ---
