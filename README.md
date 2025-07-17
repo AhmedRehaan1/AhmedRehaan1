@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahmed Rehan
 
- Mechatronics Engineering Student | 🤖 Robotics & AI Developer | 🔬 Research Enthusiast
+ Mechatronics Engineering Student |  AI & Robotics developer |  Research Enthusiast
 
 ---
 
