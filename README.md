@@ -33,9 +33,8 @@ I'm an engineering student passionate about AI ,robotics and embedded systems.. 
 
 ## 📫 Connect With Me
 
-- 📧 Email: rehaanmohamed97@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/ahmed-rehan97](https://www.linkedin.com/in/ahmed-rehan97/)
-- 🌐 Portfolio (coming soon)
+- 📧 Email: ahmedrehan2214@gmail.com  
+- 💼 LinkedIn: [Ahmed Rehan](https://www.linkedin.com/in/ahmed-rehan-080604267/)
 
 ---
 
