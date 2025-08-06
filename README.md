@@ -16,7 +16,7 @@ I'm an engineering student passionate about AI ,robotics and embedded systems.. 
 ##  Tech Stack & Tools
 
 - **Programming:** Python, C++, Arduino (ESP32), C
-- **AI/ML:** Scikit-learn, OpenCV, MediaPipe, YOLOv8
+- **AI/ML:** Scikit-learn,RAG, LLM,CNN, OpenCV, MediaPipe, YOLOv8
 - **Hardware:** ESP32, Raspberry Pi, Sensors, Motors, encoders
 - **Robotics:** ROS1, RViz, Gazebo, MoveIt
 - **Design:** SolidWorks, Fusion 360
