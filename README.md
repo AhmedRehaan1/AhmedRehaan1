@@ -26,7 +26,7 @@ I'm an engineering student passionate about AI ,robotics and embedded systems.. 
 
 ##  GitHub Stats
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedRehaan1&show_icons=true&theme=tokyonight)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedRehaan1&show_icons=true&count_private=true&v=3)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRehaan1&layout=compact&theme=tokyonight)
 
 
