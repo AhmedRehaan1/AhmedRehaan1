@@ -23,6 +23,14 @@ I'm an engineering student passionate about AI ,robotics and embedded systems.. 
 - **Others:** Git, Linux, Streamlit, PlatformIO
 
 ---
+## 🏆 HackerRank Achievements
+
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-⭐⭐⭐⭐⭐-brightgreen)
+![Python](https://img.shields.io/badge/Python-⭐⭐⭐⭐⭐-brightgreen)
+![SQL](https://img.shields.io/badge/SQL-⭐⭐⭐-yellow)
+![C++](https://img.shields.io/badge/C++-⭐⭐⭐-blue)
+
+[![HackerRank Profile](https://img.shields.io/badge/View%20My%20HackerRank%20Profile-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ahmedrehan2214)
 
 ##  GitHub Stats
 
