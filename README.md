@@ -23,7 +23,7 @@ I'm an engineering student passionate about AI ,robotics and embedded systems.. 
 - **Others:** Git, Linux, Streamlit, PlatformIO
 
 ---
-## 🏆 HackerRank Achievements
+##  HackerRank Achievements
 
 ![Python](https://img.shields.io/badge/Python-⭐⭐⭐⭐⭐-brightgreen)
 ![C](https://img.shields.io/badge/C-⭐⭐⭐⭐-blue)
